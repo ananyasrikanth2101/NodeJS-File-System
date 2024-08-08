@@ -1,0 +1,9 @@
+Render URL: https://nodejs-file-system-fmo7.onrender.com
+
+API Endpoints:
+1. POST /create-file - Creates a text file with the current timestamp in IST.
+2. GET /get-files - Retrieves all text files in the texts folder.
+
+Github Repository URL: https://github.com/ananyasrikanth2101/NodeJS-File-System.git
+
+Last Commit Hash: c3dd07b02b0c5b7355be89e47e359ff0aad8a4c5
