@@ -11,10 +11,6 @@ This project is a simple Node.js API for creating and retrieving text files with
 
 The API documentation is available at the following Postman URL: https://documenter.getpostman.com/view/37083969/2sA3kUJ3HR
 
-## Backend-Deployed-Link
-
-URL: https://nodejs-file-system-fmo7.onrender.com
-
 ## Acknowledgements
 
 **express:** This is the web framework used to create the API endpoints.
